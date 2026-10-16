@@ -1,6 +1,12 @@
-# Projeto
+# Oficina Angular Hï Tech
+
+Oficina de Angular - SECOMP+ 2026
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.2.
+
+## Resumo
+
+Aprenda a desenvolver uma landing page completa do zero utilizando Angular, HTML e CSS, colocando em prática os principais conceitos do desenvolvimento front-end! Durante a oficina, você construirá um portfólio pessoal de página única, passando pela configuração do ambiente e criação de componentes até a estilização e responsividade do projeto. Você aprenderá a estruturar uma aplicação com componentes reutilizáveis, aplicar a identidade visual da HïTech, criar layouts modernos, trabalhar com fontes, cores e efeitos visuais, implementar navegação suave entre seções e adaptar a página para diferentes dispositivos. Ao final, você terá desenvolvido um portfólio com cinco seções — Header, Home, Sobre Mim, Contato e Footer — e adquirido conhecimentos essenciais para criar suas próprias interfaces web com Angular.
 
 ## Development server
 
