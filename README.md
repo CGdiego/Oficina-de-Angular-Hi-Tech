@@ -1,6 +1,6 @@
 # Oficina Angular Hï Tech
 
-Oficina de Angular - SECOMP+ 2026
+Oficina de Angular — SECOMP+ 2026
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.2.
 
